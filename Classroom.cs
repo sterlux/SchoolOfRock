@@ -1,5 +1,6 @@
 namespace SoR{
     public class Classroom{
+        // Los enums tambien son tipos de datos
         public Instrument Instrument {get ; set; }
         public int capacity {get ; set; }
         public int InstructorEmployeeNo { get; set; }
